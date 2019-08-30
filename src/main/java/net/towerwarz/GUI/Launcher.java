@@ -1,10 +1,8 @@
 package net.towerwarz.GUI;
 
-import java.awt.EventQueue;
+import java.awt.*;
 
-import javax.swing.JFrame;
-import javax.swing.JPanel;
-import java.awt.BorderLayout;
+import javax.swing.*;
 
 public class Launcher{
 
@@ -18,9 +16,8 @@ public class Launcher{
 		jframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		jframe.setSize(600, 600);
 		jframe.setVisible(true);
-		
 	}
 
-	
+
 
 }
