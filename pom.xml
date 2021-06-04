@@ -109,7 +109,7 @@
                     <!--SnakeYAML-->
                     <groupId>org.yaml</groupId>
                     <artifactId>snakeyaml</artifactId>
-                    <version>1.16-SNAPSHOT</version>
+                    <version>1.26</version>
                 </dependency>
 
 
